@@ -1,0 +1,1292 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col12119/1.3</md:content-url>
+  <md:content-id>col12119</md:content-id>
+  <md:title>Intermediate Algebra</md:title>
+  
+  
+  <md:version>1.3</md:version>
+  <md:created>2017/01/24 10:25:55.668 US/Central</md:created>
+  <md:revised>2017/03/14 11:57:34.339 GMT-5</md:revised>
+
+  <md:actors>
+    
+    
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    
+    
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    
+    
+    
+    
+    <md:person userid="cnxintalg">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>Intermediate Algebra</md:surname>
+      <md:fullname>OpenStax Intermediate Algebra</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">cnxintalg OpenStaxCollege</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  
+
+  <md:subjectlist>
+    <md:subject>Mathematics and Statistics</md:subject>
+  </md:subjectlist>
+
+  <md:abstract></md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style"
+               value="ccap-developmental-math"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m63300" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Foundations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63301" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63302" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Use the Language of Algebra</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63303" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Integers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63304" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Fractions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63305" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Decimals</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63306" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Properties of Real Numbers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Solving Linear Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63307" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63308" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Use a General Strategy to Solve Linear Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63309" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Use a Problem Solving Strategy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63310" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve a Formula for a Specific Variable</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63311" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Mixture and Uniform Motion Applications</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63312" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Linear Inequalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63313" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Compound Inequalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63314" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Absolute Value Inequalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Graphs and Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63316" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63318" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Graph Linear Equations in Two Variables</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63319" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Slope of a Line</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63320" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Find the Equation of a Line</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63321" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Graph Linear Inequalities in Two Variables</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63324" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Relations and Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63325" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Graphs of Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Systems of Linear Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63326" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63327" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Systems of Linear Equations with Two Variables</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63328" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Applications with Systems of Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63353" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Mixture Applications with Systems of Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63331" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Systems of Equations with Three Variables</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63333" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Systems of Equations Using Matrices</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63334" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Systems of Equations Using Determinants</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63354" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Graphing Systems of Linear Inequalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Polynomials and Polynomial Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63337" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63343" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Add and Subtract Polynomials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63345" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Properties of Exponents and Scientific Notation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63351" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Multiply Polynomials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63355" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Dividing Polynomials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Factoring</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63356" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Factoring</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63357" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Greatest Common Factor and Factor by Grouping</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63358" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Factor Trinomials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63360" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Factor Special Products</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63361" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>General Strategy for Factoring Polynomials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63362" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Polynomial Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Rational Expressions and Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63365" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63367" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Multiply and Divide Rational Expressions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63368" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Add and Subtract Rational Expressions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63371" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Simplify Complex Rational Expressions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63380" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Solve Rational Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63374" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Solve Applications with Rational Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63376" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Rational Inequalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Roots and Radicals</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63378" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63379" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Simplify Expressions with Roots</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63396" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Simplify Radical Expressions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63402" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Simplify Rational Exponents</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63413" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Add, Subtract, and Multiply Radical Expressions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63418" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Divide Radical Expressions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63429" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Radical Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63430" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Use Radicals in Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63442" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Use the Complex Number System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Quadratic Equations and Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63397" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63400" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Quadratic Equations Using the Square Root Property</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63459" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Quadratic Equations by Completing the Square</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63463" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Quadratic Equations Using the Quadratic Formula</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63464" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Quadratic Equations in Quadratic Form</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63465" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Applications of Quadratic Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63466" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Graph Quadratic Functions Using Properties</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63467" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Graph Quadratic Functions Using Transformations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63468" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Quadratic Inequalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Exponential and Logarithmic Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63454" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63416" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Finding Composite and Inverse Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63421" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Evaluate and Graph Exponential Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63423" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Evaluate and Graph Logarithmic Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63424" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Use the Properties of Logarithms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63427" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Solve Exponential and Logarithmic Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Conics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63433" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63435" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Distance and Midpoint Formulas; Circles</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63436" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Parabolas</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63437" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Ellipses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63440" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Hyperbolas</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63441" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Solve Systems of Nonlinear Equations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Sequences, Series and Binomial Theorem</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m63444" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63447" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Sequences</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63448" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Arithmetic Sequences</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63451" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Geometric Sequences and Series</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63462" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Binomial Theorem</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
