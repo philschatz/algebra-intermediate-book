@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Intermediate Algebra'
-tagline:          'from http://cnx.org/contents/02776133-d49d-49cb-bfaa-67c7f61b25a1@4.13 (CC-BY)'
+tagline:          'from http://cnx.org/contents/02776133-d49d-49cb-bfaa-67c7f61b25a1@ (CC-BY)'
 url:              https://github.com/philschatz/algebra-intermediate-book
-origin:           http://cnx.org/contents/02776133-d49d-49cb-bfaa-67c7f61b25a1@4.13
+origin:           http://cnx.org/contents/02776133-d49d-49cb-bfaa-67c7f61b25a1@
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          4.13
+version:          
 
-bookviewer:       http://philschatz.com/book-viewer
+bookviewer:       https://philschatz.com/book-viewer
 
